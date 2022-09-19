@@ -3,12 +3,9 @@ import { useParams } from "react-router-dom";
 
 const Details = (props) => {
   const id = useParams().id;
-  const data = props.data[id - 1]; // ㅠㅠㅠㅠ
+  const data = props.data[id - 1];
   console.log(props);
   console.log(id);
-  /* const data = props.data(id-1); -> 왜 안되지..? */
-
-  // map 으로도 해볼 것
 
   return (
     <div className="wrap">

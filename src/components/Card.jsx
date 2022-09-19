@@ -42,16 +42,6 @@ const Card = ({ card }) => {
                <MdFavorite style={favListColor[fav]} />
             </label>
             <Link to={`/cardList/details/${card.id}`} className='link'>상세보기</Link>
-            {/* {
-               detailData.map((detail) => {
-                  return (
-                     <Link to='/cardList/details' key={detail.id} detail={detail} className='link'>상세보기</Link>
-                  )
-               })
-
-            } */}
-
-            {/* <a className='link' href={card.dataLink}>상세보기</a> */}
          </div>
       </li>
    );

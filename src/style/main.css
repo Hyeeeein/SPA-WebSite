@@ -1,5 +1,4 @@
 .mainContainer {
-    /* 여기 안에서만 줄 수 있는 변수, 이름은 마음대로 */
     --list-size: 1200px;
     height: auto;
     margin: 50px auto;
@@ -42,7 +41,6 @@
     padding: 50px;
     display: none;
     flex-shrink: 0;
-    /* 앞에 하나 붙일 것이기 때문에 */
 }
 
 .mainContainer .viewContents li.on {

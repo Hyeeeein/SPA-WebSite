@@ -3,21 +3,20 @@ import { useState, useRef } from 'react';
 
 const Form = () => {
 
-    const writer = useRef(); // 객체 형태의 변수가 생성 / 초기값이 없음
-    console.log(writer) // Object {current: undefined} 가 선택됨 / writer 에는 작성자 input 참조
-    const content = useRef(); // content 에는 컨텐츠 input 참고
+    const writer = useRef(); 
+    console.log(writer) 
+    const content = useRef(); 
 
     const [state, setState] = useState({
         writer: '',
         content: '',
-        grade: 50 // 초기값을 넣어준거임
-    }); // 오브젝트도 넣을 수 있음
+        grade: 50 
+    }); 
 
     const fncForm = (e) => {
         setState({
             ...state,
             [e.target.name]: e.target.value
-            // [e.target.name] 은 input 의 name 인 writer, 그 값으로 e.target.value 은 input 에 넣는 값(예를들어 김영희, 김철수 등)
         })
     }
     console.log(state)
@@ -38,7 +37,7 @@ const Form = () => {
                     onChange={fncForm}
                 />
                 <label htmlFor="writer" className='blind'>작성자</label>
-                {/* 라벨 해줘야 함 하고 안보이게 처리 */}
+                
             </div>
             <div>
                 <textarea
