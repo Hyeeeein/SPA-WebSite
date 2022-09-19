@@ -1,0 +1,56 @@
+[
+    {
+        "id": "1",
+        "imgUrl": "https://loremflickr.com/320/240?random=1",
+        "imgAlt": "Kevin Kruse",
+        "title": "Spring and summershoes",
+        "content": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Accusamus voluptatem quisquam inventore tenetur, assumenda possimus dolorem, porro atque sit eligendi velit. Architecto officia voluptatem error a tenetur, ex perspiciatis ipsum rem iusto explicabo consequatur maxime maiores enim vel repellendus! Dolores ullam veritatis fuga facilis? Ipsa nisi nobis quibusdam qui deserunt tempora tenetur soluta corrupti recusandae, nulla enim dolorem hic excepturi vitae maiores dolore quod rem totam cupiditate odit consectetur perspiciatis atque magni eveniet! Eligendi ipsam temporibus esse officia omnis commodi ratione a impedit, ullam numquam quisquam voluptatem dolorem placeat sit minus, eum nemo maxime. Aspernatur consequatur fugiat soluta modi porro.",
+        "dataLink": "#",
+        "checkName": "card_01"
+    },
+    {
+        "id": "2",
+        "imgUrl": "https://loremflickr.com/320/240/dog",
+        "imgAlt": "Napoleon Hill",
+        "title": "TC Reusable Silicone Magic Washing Gloves",
+        "content": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Minima et eos ad tenetur similique, atque asperiores consectetur nisi eveniet saepe, accusamus numquam laudantium libero dignissimos! Voluptatibus autem necessitatibus alias nam velit eum beatae dicta, asperiores itaque impedit illo dolorem quidem quisquam, eos corporis, molestiae debitis numquam amet maiores voluptas architecto adipisci blanditiis modi. Molestias perspiciatis culpa explicabo animi totam eligendi sed error, sunt non quis quibusdam, magni labore dolorum soluta incidunt ipsa voluptatem, molestiae nobis! Voluptatibus, possimus non. Error at autem quibusdam aliquam possimus magni tempore nostrum accusamus, nam nihil vel hic voluptas, accusantium inventore, ullam amet deserunt ab delectus?",
+        "dataLink": "#",
+        "checkName": "card_02"
+    },
+    {
+        "id": "3",
+        "imgUrl": "https://loremflickr.com/320/240/brazil,rio",
+        "imgAlt": "Albert Einstein",
+        "title": "Oil Free Moisturizer 100ml",
+        "content": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Qui modi repellendus cum pariatur porro voluptatum et quia nobis enim consequuntur eaque amet mollitia dignissimos repellat necessitatibus aut maiores, dicta temporibus libero tenetur quam harum quasi quidem eos. Neque, ab. Repudiandae possimus voluptatem delectus itaque assumenda earum sunt non consequuntur, architecto perferendis ipsum iste vel vero exercitationem ipsa, adipisci in laborum unde debitis facere qui molestiae nam consectetur. Mollitia, itaque, suscipit iste adipisci vero aspernatur quidem quaerat voluptas sint nam eaque neque repudiandae vitae. Obcaecati velit eligendi error reprehenderit, dignissimos at tenetur quisquam maxime odio perferendis soluta repudiandae corrupti magni! Voluptatum!",
+        "dataLink": "#",
+        "checkName": "card_03"
+    },
+    {
+        "id": "4",
+        "imgUrl": "https://loremflickr.com/320/240?random=2",
+        "imgAlt": "Women Sweaters Wool",
+        "title": "lighting ceiling kitchen",
+        "content": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptatibus sequi est distinctio natus nostrum maxime ratione adipisci veritatis accusamus, earum facere ducimus nemo excepturi in! Reiciendis eaque cupiditate aliquid voluptatem ipsum harum laborum sapiente, nesciunt laudantium consectetur distinctio, obcaecati assumenda sunt amet qui modi labore soluta a placeat odit? Quasi ab sunt atque quaerat fuga, ea facilis! Porro explicabo dicta saepe minus possimus eos consectetur ex deleniti iure tempore nemo, accusamus reprehenderit unde nam voluptate blanditiis molestias cupiditate debitis quia quae incidunt ipsum id! Veniam, reiciendis blanditiis, excepturi cumque accusantium accusamus, praesentium totam soluta atque fugiat ab doloribus corrupti quo?",
+        "dataLink": "#",
+        "checkName": "card_04"
+    },
+    {
+        "id": "5",
+        "imgUrl": "https://loremflickr.com/320/240?random=3",
+        "imgAlt": "Infinix INBOOK",
+        "title": "Pubg Printed Graphic T-Shirt",
+        "content": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Debitis dignissimos dolore accusantium sit eveniet unde suscipit, totam quos fuga inventore assumenda pariatur incidunt aperiam fugiat deleniti numquam deserunt esse quo mollitia corrupti eligendi nam! Officiis impedit magni ducimus ad at, non reprehenderit neque! Odit, iusto ea repudiandae labore eum ducimus rerum iste laboriosam itaque explicabo nisi illum esse ipsa illo omnis numquam asperiores tenetur! Quia expedita ab est eos eum sit, officiis in. Assumenda, itaque tempore! In, facilis culpa ad repudiandae nostrum porro velit magni corrupti unde cupiditate laborum error et illo accusantium. Atque ipsa veniam eligendi recusandae ut. Velit?",
+        "dataLink": "#",
+        "checkName": "card_05"
+    },
+    {
+        "id": "6",
+        "imgUrl": "https://loremflickr.com/320/240?random=4",
+        "imgAlt": "Black Motorbike",
+        "title": "Hyaluronic Acid Serum",
+        "content": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Id optio, nulla neque, aperiam tempore perspiciatis iusto eos accusantium fuga suscipit nostrum doloribus laborum ipsa molestiae quidem qui illum excepturi numquam sapiente ab itaque consequuntur iste tenetur nisi? Consectetur temporibus, dolores ut quia aspernatur eos, perferendis tenetur doloribus optio ipsum incidunt cupiditate porro veniam distinctio enim, pariatur atque? Reprehenderit minus dicta omnis molestias necessitatibus provident totam corporis architecto exercitationem excepturi alias tenetur neque nulla, illo quis esse earum cupiditate sit repellendus quaerat laboriosam. Totam quia dolor ducimus cupiditate dolore temporibus cumque error labore, cum nihil dolores quae asperiores iste? Fuga, deleniti?",
+        "dataLink": "#",
+        "checkName": "card_06"
+    }
+]

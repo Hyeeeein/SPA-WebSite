@@ -1,0 +1,94 @@
+.mainContainer {
+    /* 여기 안에서만 줄 수 있는 변수, 이름은 마음대로 */
+    --list-size: 1200px;
+    height: auto;
+    margin: 50px auto;
+}
+
+.mainContainer .slideBtn {
+    border-bottom: 1px solid #777;
+    width: var(--list-size);
+    margin: auto;
+}
+
+.mainContainer .slideBtn button {
+    padding: 0.5rem 1rem;
+    background-color: wheat;
+    margin: 0 1rem;
+    color: #567456;
+}
+
+.mainContainer .viewContents {
+    margin: auto;
+    width: var(--list-size);
+    border: 1px solid #999;
+    overflow: hidden;
+}
+
+.mainContainer .viewContents ul {
+    width: 500%;
+    height: 100%;
+    display: flex;
+    justify-content: flex-start;
+    flex-wrap: nowrap;
+
+}
+
+.mainContainer .viewContents li {
+    width: var(--list-size);
+    height: 500px;
+    font-size: 4rem;
+    text-align: center;
+    padding: 50px;
+    display: none;
+    flex-shrink: 0;
+    /* 앞에 하나 붙일 것이기 때문에 */
+}
+
+.mainContainer .viewContents li.on {
+    display: block;
+    color: #fff;
+}
+
+.mainContainer .view_01 {
+    background-color: indianred;
+}
+
+.mainContainer .view_02 {
+    background-color: slateblue;
+}
+
+.mainContainer .view_03 {
+    background-color: cadetblue;
+}
+
+.mainContainer .view_04 {
+    background-color: teal;
+}
+
+.mainContainer .view_05 {
+    background-color: indianred;
+}
+
+@keyframes firstSlide {
+    0% {
+        margin-left: 100%;
+        transition: none;
+    }
+
+    100% {
+        margin-left: 0;
+        transition: margin 500ms ease;
+    }
+}
+
+@keyframes lastSlide {
+    0% {
+        margin-left: 0;
+        transition: margin 500ms ease;
+    }
+
+    100% {
+        margin-left: 100%;
+    }
+}
